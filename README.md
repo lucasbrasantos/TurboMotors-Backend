@@ -11,7 +11,7 @@ Turbo Motors is a car management system designed to streamline the management of
 ### Technologies:
 - **Spring Boot** for building the backend REST API.
 - **JPA/Hibernate** for database interactions.
-- **MySQL/PostgreSQL** (based on your configuration) for data storage.
+- **PostgreSQL** for data storage.
 - **BeanUtils** for object mapping and data transfer object (DTO) handling.
 
 The backend is designed to be highly scalable, ensuring it can handle future feature additions and performance optimizations.
